@@ -21,7 +21,7 @@ print(list_menu)
 # Fitur .reverse()
 print(">>> Fitur .reverse()")
 list_menu = ['Gado-gado', 'Ayam Goreng', 'Rendang', 'Ketoprak']
-list_menu.reverse
+list_menu.reverse()
 print(list_menu)
 # Fitur .sort()
 print(">>> Fitur .sort()")
